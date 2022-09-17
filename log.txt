@@ -64,4 +64,4 @@ West Virginia tiene una poblacion de 1792147 y un porcentaje de muertes de 0.148
 Wisconsin tiene una poblacion de 5822434 y un porcentaje de muertes de 0.1287%
 Wyoming tiene una poblacion de 578759 y un porcentaje de muertes de 0.1222%
 
-El estado mas afectado es: New Jersey Ya que es el que posee la relacion de porcentajes de muertes mas alta con respecto a su poblacion total teniendo un porcentaje de relacion de 0.2866
+4.El estado mas afectado es: New Jersey Ya que es el que posee la relacion de porcentajes de muertes mas alta con respecto a su poblacion total teniendo un porcentaje de relacion de 0.2866
